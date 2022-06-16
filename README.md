@@ -1,2 +1,2 @@
-# ResumeHtml
-практика вёрстки html
+# ResumeHtmlCss
+практика вёрстки html и css
